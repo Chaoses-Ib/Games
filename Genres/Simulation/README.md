@@ -1,6 +1,8 @@
 # Simulation Games
 [Wikipedia](https://en.wikipedia.org/wiki/Simulation_video_game)
 
+- [Stimulation Clicker](https://neal.fun/stimulation-clicker/) ([Hacker News](https://news.ycombinator.com/item?id=42611536))
+
 ## Construction and management simulation (CMS)
 ### Business simulation games
 [Wikipedia](https://en.wikipedia.org/wiki/Business_simulation_game)
