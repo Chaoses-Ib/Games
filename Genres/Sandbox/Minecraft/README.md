@@ -136,6 +136,7 @@ Modpacks:
   - [Pokemon Elysium - Minecraft Modpack](https://modrinth.com/modpack/pokemon-elysium)
 
 Mods:
+- [Waystones: Minecraft Mod. Adds waystones you can teleport to after they've been activated.](https://github.com/TwelveIterationMods/Waystones)
 - [Plants vs. Zombies: Cubed - Minecraft Mod](https://modrinth.com/mod/pvzcubed)
   - Quilt
 
@@ -161,3 +162,10 @@ Commands:
   - `/fill ~ ~ ~ ^1 ^ ^10 water`
 
   [How do i use the /fill command? : r/Minecraft](https://www.reddit.com/r/Minecraft/comments/gtrj4m/how_do_i_use_the_fill_command/)
+- `/tp`
+
+## Time
+- `/time set day`
+- `/gamerule doDaylightCycle false`
+
+  [minecraft java edition - How can I make it stay daytime all the time? - Arqade](https://gaming.stackexchange.com/questions/131546/how-can-i-make-it-stay-daytime-all-the-time)
