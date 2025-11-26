@@ -6,6 +6,8 @@
     - [Fighting Games](Genres/Action/Fighting/README.md)
     - [Battle Royale Games](Genres/Action/Battle%20Royale.md)
   - [Role-playing Games](Genres/Role/README.md)
+    - [The Witcher](<Genres/Role/The Witcher/README.typ>)
+      - [The Witcher 2: Assassins of Kings](<Genres/Role/The Witcher/2.typ>)
   - [Simulation Games](Genres/Simulation/README.md)
     - [Building Games](Genres/Simulation/Building/README.md)
     - [Life Simulation Games (SLG)](Genres/Simulation/Life.md)
